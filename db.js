@@ -8,3 +8,5 @@ db.exec(`
 		company		TEXT NOT NULL
 	)
 `);
+
+export default db;
